@@ -1,0 +1,21 @@
+{
+  "name": "sass-project",
+  "version": "1.0.0",
+  "description": "My peachy Nuxt.js project",
+  "author": "divine",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^1.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1",
+    "node-sass": "^4.9.1",
+    "sass-loader": "^7.0.3"
+  }
+}
